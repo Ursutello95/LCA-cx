@@ -1,0 +1,2 @@
+# LCA-cx
+automatizacion LCA
